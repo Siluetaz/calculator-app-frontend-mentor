@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](dist/solution.png)
+![](solution.png)
 
 ### Links
 
