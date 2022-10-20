@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/Siluetaz/calculator-app-frontend-mentor)
-- [Live site URL](https://siluetaz.github.io/calculator-app-frontend-mentor/index.html)
+- [Live site URL](https://siluetaz.github.io/calculator-app-frontend-mentor)
 
 ### Built with
 
