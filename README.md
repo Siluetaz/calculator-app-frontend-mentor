@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/Siluetaz/calculator-app-frontend-mentor)
+- [Live site URL](https://siluetaz.github.io/calculator-app-frontend-mentor)
 
 ### Built with
 
@@ -40,4 +40,4 @@ Users should be able to:
 ## Author
 
 - GitHub - [Siluetaz](https://github.com/Siluetaz)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Siluetaz)
+- Frontend Mentor - [Siluetaz](https://www.frontendmentor.io/profile/Siluetaz)
